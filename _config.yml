@@ -1,0 +1,15 @@
+title: Augmented Engineer
+tagline: Thinking, building, and sharing ideas.
+description: >-
+  Augmented Engineer blog.
+remote_theme: jekyll/minima
+baseurl: "/augmentedengineer-blog"
+url: "https://augmentedengineer.blog"
+timezone: America/Halifax
+language: en
+permalink: /posts/:title/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
